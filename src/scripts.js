@@ -149,6 +149,10 @@ const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 const myStr = "FirstLine\n\t\\SecondLine\n\ThirdLine";
  // Change this line
 
+ /*task 28*/
+
  
+
+
 
 
