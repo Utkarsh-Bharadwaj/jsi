@@ -309,6 +309,14 @@ myArray.shift();
 myArray.unshift(["Paul",35])
 
 
+/*task 48*/
+
+const myList = [["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15],["Chocolate Bar", 15]];
+
+
+/*task 49*/
+
+
 
 
 
