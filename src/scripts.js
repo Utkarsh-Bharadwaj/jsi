@@ -488,6 +488,18 @@ function compareEquality(a, b) {
   
   compareEquality(10, "10");
 
+   /*task 63*/
+
+   function testNotEqual(val) {
+    if (val != 99) { // Change this line
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  
+  // Change this value to test
+  testNotEqual(10);
+
 
 
 
