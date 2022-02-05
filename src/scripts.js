@@ -151,8 +151,11 @@ const myStr = "FirstLine\n\t\\SecondLine\n\ThirdLine";
 
  /*task 28*/
 
- 
+ const myStr = "This is the start." + " This is the end."; // Change this line
 
 
+ /*task 29*/
 
+ let myStr = "This is the first sentence.";
+myStr += " This is the second sentence.";
 
