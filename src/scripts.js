@@ -350,7 +350,20 @@ function reusableFunction() {
   // myVar is not defined outside of myLocalScope
   console.log('outside myLocalScope', myVar);
 
-   /*task 53*/
+ /*task 53 */
+  function myLocalScope() {
+    // Only change code below this line
+  
+    let myVar;
+    console.log('inside myLocalScope', myVar);
+  }
+  myLocalScope();
+  
+  // Run and check the console
+  // myVar is not defined outside of myLocalScope
+  console.log('outside myLocalScope', myVar);
+
+   /*task 54*/
 
    // Setup
 const outerWear = "T-Shirt";
@@ -363,6 +376,12 @@ function myOutfit() {
 }
 
 myOutfit();
+
+  /*task 55*/
+
+
+
+
 
 
 
