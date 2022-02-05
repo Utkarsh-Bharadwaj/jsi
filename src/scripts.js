@@ -165,3 +165,13 @@ myStr += " This is the second sentence.";
 const myName = "Utkarsh Upadhyay";
 const myStr = "Hello, our name is " + myName + ", how are you?";
 
+
+ /*task 31*/
+
+ // Change code below this line
+const someAdjective = "Utkarsh";
+let myStr = "Learning to code is ";
+myStr+=someAdjective;
+
+
+
