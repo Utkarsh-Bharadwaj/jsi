@@ -995,6 +995,16 @@ var myDog = {
 myDog.name = "Happy Coder"; // Dot notation
 myDog["name"] = "Happy Coder"; // Bracket notation
 
+/*task 88*/
+const myDog = {
+  "name": "Happy Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["freeCodeCamp Campers"]
+};
+
+myDog.bark="wolf"
+
 
 
 
