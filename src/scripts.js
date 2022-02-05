@@ -80,6 +80,10 @@ const myDecimal = 5.7;
 /*task 17*/
 const product = 10*8;
 
+/*task 18*/
+
+const product = 5.0*1;
+
 
 
 
