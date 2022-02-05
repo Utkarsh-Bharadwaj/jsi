@@ -246,4 +246,9 @@ const myArray = ["peanut butter",3];
 // Only change code below this line
 const myArray = [["Bulls", 23], ["White Sox", 45]];
 
+/*task 41*/
+const myArray = [50, 60, 70];
+var myData = myArray[0];
+
+
 
