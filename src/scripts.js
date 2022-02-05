@@ -1183,7 +1183,18 @@ updateRecords(recordCollection, 5439, 'artist', 'ABBA');
 
          /*task 96*/
 
+         // Setup
+           const myArray = [];
 
+        // Only change code below this line
+          let i=5;
+
+          while(i>=0)
+          {
+
+           myArray.push(i);
+           i--;
+          }
 
 
 
@@ -1220,7 +1231,7 @@ for (let i = 9; i > 0; i -= 2) {
 // Only change code below this line
 
    /*task 100*/
-   
+
    // Setup
 const myArr = [2, 3, 4, 5, 6];
 
