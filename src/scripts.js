@@ -328,6 +328,14 @@ function reusableFunction() {
   }
   functionWithArgs(1,2);
 
+  /*task 51 */
+
+  function timesFive(num) {
+    return 5 * num;
+  }
+  
+  const answer = timesFive(2);
+
 
 
 
