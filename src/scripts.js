@@ -46,3 +46,7 @@ console.log(FCC, fact); // Change this line
 
 const sum = 10 + 10;
 
+/* task 12*/
+
+const difference = 45 - 33;
+
