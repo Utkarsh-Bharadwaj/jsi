@@ -159,3 +159,9 @@ const myStr = "FirstLine\n\t\\SecondLine\n\ThirdLine";
  let myStr = "This is the first sentence.";
 myStr += " This is the second sentence.";
 
+ /*task 30*/
+
+ // Only change code below this line
+const myName = "Utkarsh Upadhyay";
+const myStr = "Hello, our name is " + myName + ", how are you?";
+
