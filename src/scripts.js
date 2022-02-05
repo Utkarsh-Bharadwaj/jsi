@@ -250,5 +250,27 @@ const myArray = [["Bulls", 23], ["White Sox", 45]];
 const myArray = [50, 60, 70];
 var myData = myArray[0];
 
+/*task 42*/
+
+// Setup
+const myArray = [18, 64, 99];
+
+// Only change code below this line
+myArray[0] = 45;
+myArray[1] = 64;
+myArray[2] = 99;
+
+
+/*task 43*/
+
+const myArray = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  
+  const myData = myArray[2][1];
+
 
 
