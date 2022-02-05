@@ -428,6 +428,17 @@ function nextInLine(arr, item) {
   console.log(nextInLine(testArr, 6));
   console.log("After: " + JSON.stringify(testArr));
 
+  /*task 58*/
+
+  function welcomeToBooleans() {
+
+    // Only change code below this line.
+    
+    return true; // Change this line
+    
+    // Only change code above this line.
+    }
+
 
 
 
