@@ -1093,6 +1093,28 @@ phoneticLookup("charlie");
           }
         ];
 
+        /*task 93*/
+
+        var myStorage = {
+          "car": {
+            "inside": {
+              "glove box": "maps",
+              "passenger seat": "crumbs"
+             },
+            "outside": {
+              "trunk": "jack"
+            }
+          }
+        };
+        
+        // Only change code below this line
+        
+        var gloveBoxContents = myStorage.car.inside["glove box"];
+
+         /*task 94*/
+
+
+
 
 
 
