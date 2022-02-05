@@ -50,3 +50,7 @@ const sum = 10 + 10;
 
 const difference = 45 - 33;
 
+/* tasl 13*/
+
+const product = 8 * 10;
+
