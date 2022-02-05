@@ -77,7 +77,8 @@ const myDecimal = 5.7;
 
 // Only change code below this line
 
-
+/*task 17*/
+const product = 10*8;
 
 
 
