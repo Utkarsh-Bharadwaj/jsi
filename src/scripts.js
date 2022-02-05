@@ -467,6 +467,17 @@ function testEqual(val) {
   testEqual(10);
 
 
+   /*task 61*/
+
+   function testStrict(val) {
+    if (val === 7) {
+      return "Equal";
+    }
+    return "Not Equal";
+  }
+
+
+
 
 
 
